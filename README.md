@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-08-23 at 12 49 07 PM](https://github.com/pooja-9557/Phone-Book/assets/94179112/3dd92061-3050-4d97-a9d1-6df9c6e76449)# Phone-Book
+Phone-Book
 Welcome to the Phone Book repository! This open-source Android application empowers you to efficiently manage your contacts, offering a seamless experience for creating, deleting, saving, filtering, and even uploading contact images.
 
 Features:
